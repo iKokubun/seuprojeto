@@ -34,11 +34,10 @@ function App() {
       <section className="hero">
         <div className="hero-overlay"></div>
         <div className="container hero-content">
-          <h1 className="animate-up delay-1">O Ritual da <span>Serenidade</span></h1>
+          <h1 className="animate-up delay-1">O Ritual da <span>Felicidade</span></h1>
           <p className="animate-up delay-2">Desenvolvemos blends botânicos premiuns para mentes que buscam o silêncio e a reconexão com a essência orgânica da vida.</p>
           <div className="hero-btns animate-up delay-3">
             <a href="#collection" className="btn-primary">Descobrir Blends</a>
-            <a href="#ritual" className="btn-outline">Nossa Filosofia</a>
           </div>
         </div>
         <div className="hero-scroll-indicator">
