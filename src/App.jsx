@@ -32,6 +32,15 @@ function App() {
 
       {/* Hero Section */}
       <section className="hero">
+        <div className="hero-video-container">
+          <iframe
+            src="https://www.youtube.com/embed/JjL70MjnzN4?autoplay=1&mute=1&loop=1&playlist=JjL70MjnzN4&controls=0&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
+        </div>
         <div className="hero-overlay"></div>
         <div className="container hero-content">
           <h1 className="animate-up delay-1">O Ritual da <span>Felicidade</span></h1>
